@@ -10,9 +10,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Directory Structure](#directory-structure)
-- [Statement of Authorship](#statement-of-authorship)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
